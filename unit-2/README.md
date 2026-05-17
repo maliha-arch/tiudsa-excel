@@ -9,7 +9,7 @@
 - Added Order Flag column using IF formula to label orders as High or Low
 
 ## Files / links
-- Sales_Analysis.xlsx
+- [Sales_Analysis.xlsx](https://github.com/maliha-arch/tiudsa-excel/blob/main/unit-2/Sales_Analysis.xlsx)
 
 ## How to run / verify
 - Open Sales_Analysis.xlsx
